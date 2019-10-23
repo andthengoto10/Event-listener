@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+#test{
+    display: flex;
+    flex-wrap: wrap;
+    width: 420px;
+    margin: auto;
+}
+
+.item{
+    background-color: lightblue;
+    border: 2px solid blue;
+    height: 100px;
+    width: 25%;
+    border-radius: 5px;
+}
