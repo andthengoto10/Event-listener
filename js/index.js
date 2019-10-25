@@ -1,6 +1,6 @@
 let test = document.getElementById("test");
   
-for(i=0; i<16; i++){
+for(i=0; i<25; i++){
   test.innerHTML += '<div class="item"></div>'
 }
 
